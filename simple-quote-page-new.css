@@ -7,9 +7,8 @@ body {
   background: url('assets-simple-quote-page-new/freedom.jpg') no-repeat center;
 }
 .wrapper {
-     
-    height: 100vh;
-    padding-top: 4rem;
+  height: 90vh;  
+  padding-top: 4rem;
     padding-left: 2rem;
     padding-right: 2rem;
     margin: 0 auto;
